@@ -1,0 +1,1 @@
+{"name":"rallypoint","version":"1.0.0","private":true,"description":"Offline-first multi-sport match tracker","scripts":{"test":"node --test tests/","start":"python3 -m http.server 8000"}}
