@@ -1,6 +1,6 @@
 # RallyPoint
 
-**Live demo:** https://madhavagg007.github.io/rallypoint/
+**Live demo:** https://madhavagg007.github.io/RallyPoint/
 
 Offline-first multi-sport match tracker for table tennis, badminton, volleyball, squash, pickleball and beach volleyball. Vanilla JavaScript, no build step, no dependencies. Installable as a PWA.
 
