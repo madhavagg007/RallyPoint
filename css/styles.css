@@ -80,3 +80,5 @@ button:focus-visible,input:focus-visible,select:focus-visible{outline:2px solid 
 .sportopt span{font-size:25px;line-height:1}.sportopt:hover{filter:none;color:var(--text)}.sportopt.on{color:var(--gold);border-color:#e8c98766;background:#e8c98714;box-shadow:0 0 0 3px #e8c98712}
 #sportLabel{display:none}
 .confirm{width:min(380px,90vw);text-align:center}.confirm-msg{margin:6px 4px 4px;font-size:16px;line-height:1.5}.confirm .actions{justify-content:center}.confirm .actions button{flex:1}
+textarea{width:100%;min-height:84px;padding:12px;border:1px solid var(--line);background:#0c0c13;color:var(--text);border-radius:14px;font:11.5px/1.45 ui-monospace,SFMono-Regular,Menlo,monospace;resize:vertical;outline:none}textarea:focus{border-color:var(--gold);box-shadow:0 0 0 4px #e8c98720}
+#liveSheet label{display:block;margin:16px 0 7px}.switch{display:flex!important;align-items:center;gap:10px;font-size:13px;letter-spacing:0;color:var(--text);font-weight:600}.switch input{width:auto}
